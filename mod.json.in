@@ -1,0 +1,7 @@
+{
+  "id": "com.bytheeightdivines.skirtweight",
+  "name": "Skirt Physics",
+  "version": "@PROJECT_VERSION@",
+  "author": "ByTheEightDivines",
+  "description": "Adds physics to anything that is weighted to the skirt bones. I originally made this for my upcoming Hero of Legend mod, but decided to release it early for others because it works on default link. AI was used in assistance in creating this mod."
+}
